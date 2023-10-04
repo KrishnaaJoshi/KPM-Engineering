@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>KPM-Engineering</Name>
+		<Assembly>InstancesWarning\InstancesWarning.Revit.2020.dll</Assembly>
+		<FullClassName>InstancesWarning.Revit.AppCommand</FullClassName>
+		<AddInId>CFB21186-819F-4A05-9991-FA10C44494BD</AddInId>
+		<VendorId>KPM-Engineering</VendorId>
+		<VendorDiscription>https://kpm-engineering.com/</VendorDiscription>
+	</AddIn>
+</RevitAddIns>
+

@@ -1,0 +1,12 @@
+D:\KPM_PlugIns\KPM-Engineering\InstancesWaring.Revit.2020\bin\Debug\InstancesWarning.Revit.2020.dll
+D:\KPM_PlugIns\KPM-Engineering\InstancesWaring.Revit.2020\bin\Debug\InstancesWarning.Revit.2020.pdb
+D:\KPM_PlugIns\KPM-Engineering\InstancesWaring.Revit.2020\obj\Debug\InstancesWaring.Revit.2020.csproj.AssemblyReference.cache
+D:\KPM_PlugIns\KPM-Engineering\InstancesWaring.Revit.2020\obj\Debug\InstancesWaring.Revit.2020.csproj.CoreCompileInputs.cache
+D:\KPM_PlugIns\KPM-Engineering\InstancesWaring.Revit.2020\obj\Debug\InstancesWarning.Revit.2020.dll
+D:\KPM_PlugIns\KPM-Engineering\InstancesWaring.Revit.2020\obj\Debug\InstancesWarning.Revit.2020.pdb
+D:\KPM_PlugIns\KPM-Engineering\InstancesWaring.Revit.2020\bin\Debug\Resources\32x32\KPM_Logo.png
+D:\KPM_PlugIns\KPM-Engineering\InstancesWaring.Revit.2020\bin\Debug\Resources\32x32\IdenticalInstance.png
+D:\KPM_PlugIns\KPM-Engineering\InstancesWaring.Revit.2020\bin\Debug\Resources\32x32\MarkValue.png
+D:\KPM_PlugIns\KPM-Engineering\InstancesWaring.Revit.2020\bin\Debug\Resources\32x32\NoLoss.png
+D:\KPM_PlugIns\KPM-Engineering\InstancesWaring.Revit.2020\obj\Debug\InstancesWarning.Revit.MainForm.resources
+D:\KPM_PlugIns\KPM-Engineering\InstancesWaring.Revit.2020\obj\Debug\InstancesWaring.Revit.2020.csproj.GenerateResource.cache
